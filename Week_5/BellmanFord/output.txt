@@ -1,0 +1,6 @@
+Distense of 1 : 0
+Distense of 2 : -1
+Distense of 3 : -2
+Distense of 4 : -5
+Distense of 5 : 0
+Cycle NO

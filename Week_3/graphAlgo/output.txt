@@ -1,0 +1,7 @@
+Distense of 1 : 0
+Distense of 2 : 1
+Distense of 3 : 3
+Distense of 4 : 5
+Distense of 5 : 0
+Distense of 6 : 4
+Distense of 7 : 3

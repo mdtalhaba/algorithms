@@ -1,0 +1,27 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+void divide(int ar[], int l, int r)
+{
+    if(l<r)
+    {
+        int mid = (l+r)/2;
+        
+        divide(ar,l,mid);
+        divide(ar,mid+1,r);
+    }
+}
+int main()
+{
+    int n; cin>>n;
+
+    int ar[n];
+    for (int i = 0; i < n; i++)
+    {
+        cin>>ar[n];
+    }
+    
+    divide(ar,0,n-1);
+       
+    return 0;
+}
